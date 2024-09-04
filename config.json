@@ -17,7 +17,7 @@
 	"db_path": "gophish.db",
 	"migrations_prefix": "db/db_",
 	"logging": {
-		"filename": "",
-		"level": ""
+		"filename": "gophish.log",
+		"level": "info"
 	}
 }
